@@ -1,0 +1,55 @@
+Pre Funds ,DATE,STOCK,OPTED,VOLUME,RSI,RR,TAR RR,PR0 / LOSS,Brokerage,NET,Post Funds 
+4000,August 5,TATA Motors,BUY,1.4M u - 450k,30,2,2,210,20.89,190.69,4190
+4190,August 7,TATA Motors,No Data,NO DATA AVAILABLE,,,,126,22.1,-148,4042
+4042,August 8,TATA Motors,,,,,,169,21.61,-190.71,3851
+3851,August 12,TATA Motors,,,,,,88,20.39,-108.79,3742.21
+3742.21,August 13,TATA Motors,,,,,,115.94,38.5,77.44,3819.65
+3819.65,August 14,TATA Motors,,,,,,141.15,19.09,122.06,3919.5
+,August 16,TATA Motors,,,,,,-200,20,-221,
+,August 19,TATA Motors,,,,,,,,-7,
+3708,August 20,TATA Motors,,,,,,,,18,
+3690,August 21,TATA Motors,,,,,,,,-30,3690
+3690,August 22,TATA Motors,,,,,,,,-90,3566
+8587.61,11 Sep,Oracle ,Buy ,33k,65,Loss,1.88,-300,-56,-456,8387
+8287,11 Sep,Oracle ,sell,247,54,Loss,2,-100,,,
+8123,12 Sep,Oracle ,Sell,17k,60,Loss,2,-85,-32,-122,8123
+18284,October 10,TCS,SELL,11.8k (Pump),60ish,2,2,380,90,289,18573
+,,,,15k,71,2,1.5,,,,
+18573,October 11,Adani Ent,SELL,13k,61,2,2,242,20,221,18743
+18743,October 14,LT,SELL,7k,60ish,1,2,210,51,159,18954
+18953,October 15,South INdian Bk,SELL,"Typical Data, why lost AMS is bad SL placement the traget indeed had
+been hitted.",,,,51,53,-141,18843
+,October 15,Apollo MS,SELL,,,,,-193,53,,
+18843,October 17,Infy,SELL,118k,70,1.2,2,211.35,41.82,169.53,18956
+18956,October 18,LT,SELL,48k,57,0.45,1.5,55,38,17,18974
+18974,October 22,Tata Motors,Buy,,,,,-250,138,-147,18826
+,,Reliance,Sell,,,,,200,,,
+,,Hdfc Life,,50k,47 down,1.44,1.44,72,,,
+18826,October 23,Tech M,Sell,63,54k,-L,1.05,-582,-52,-634,18197
+18197,October 30,Wipro,?,NO Data,,,,-115,-47,-163,18000
+8743,7 November,tata steel ,BUY,Didnt even bothered to record,,,,-132,-33,-165,8578
+8578,8 Nov,AB Fashion,BUY,,,,,-548,-34,-582,7996
+7970,13 November,NTPC,SELL,,,,,-97,26,-71,7899
+7899,18 Nov,Tata Motors,SELL,,,,,-169,25,-144,7755
+7628,6 Jan,LT,Buy,40k,43,2,2,-1,-98(AMC),-1,7627
+7529,7 Jan,Titan,SELL,136k-81k,76,1.13,2,261,-26.42,234.58,7763.58
+7763.58,8 Jan,TRENT,Buy,88k-52k,8,3.5,2.6,228,-11.68,216.32,7979.9
+7979.9,9 Jan,M&M,Sell,60k-24k,73,L,1.9,-106.75,-30.04,-136.79,7843.11
+7843.11,10 Jan,IREDA,Buy,4M-1.7M,28,L,2,-197.47,-13.04,-210.51,7632.6
+7632.6,13 Jan,TCS,Sell,NO,,L,2,-167.7,27.14,-140.56,7492.04
+7492.04,14 Jan,Reliance,BUY,,,L,2,-91,26.44,-64.56,7427.48
+7427.48,20 Jan,LT,Sell,39K ↑ - 26k,77,Lx2,3,-53,-76.2,-129.2,7298.28
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+MONTH ,NO OF TRADES,REALIZED PL,CHARGES,"NET REALIZED
+PL",,,,,,,
+January-2025,8,-₹ 126.37,₹ 239.70,-₹ 366.07,,,,,,,
+November-2024,5,-₹ 947.90,₹ 119.17,"-₹ 1,067.07",,,,,,,
+October-2024,14,₹ 341.05,₹ 596.97,-₹ 255.92,,,,,,,
+September-2024,2,-₹ 469.45,₹ 110.01,-₹ 579.46,,,,,,,
+August-2024,11,-₹ 151.10,₹ 237.74,-₹ 388.84,,,,,,,

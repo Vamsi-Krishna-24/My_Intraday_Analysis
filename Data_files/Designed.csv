@@ -1,0 +1,48 @@
+Pre Funds ,DATE,STOCK,OPTED,VOLUME,RSI,RR,TAR RR,PR0 / LOSS,Brokerage,NET,Post Funds 
+4000,August 5,TATA Motors,BUY,1.4M u - 450k,30,2,2.0,210.0,20.89,190.69,4190.0
+4190,August 7,TATA Motors,No Data,NO DATA AVAILABLE,,,,126.0,22.1,-148.0,4042.0
+4042,August 8,TATA Motors,,,,,,169.0,21.61,-190.71,3851.0
+3851,August 12,TATA Motors,,,,,,88.0,20.39,-108.79,3742.21
+3742.21,August 13,TATA Motors,,,,,,115.94,38.5,77.44,3819.65
+3819.65,August 14,TATA Motors,,,,,,141.15,19.09,122.06,3919.5
+,August 16,TATA Motors,,,,,,-200.0,20,-221.0,
+,August 19,TATA Motors,,,,,,,,-7.0,
+3708,August 20,TATA Motors,,,,,,,,18.0,
+3690,August 21,TATA Motors,,,,,,,,-30.0,3690.0
+3690,August 22,TATA Motors,,,,,,,,-90.0,3566.0
+8587.61,11 Sep,Oracle ,Buy ,33k,65,Loss,1.88,-300.0,-56,-456.0,8387.0
+8287,11 Sep,Oracle ,sell,247,54,Loss,2.0,-100.0,,,
+8123,12 Sep,Oracle ,Sell,17k,60,Loss,2.0,-85.0,-32,-122.0,8123.0
+18284,October 10,TCS,SELL,11.8k (Pump),60ish,2,2.0,380.0,90,289.0,18573.0
+,,,,15k,71,2,1.5,,,,
+18573,October 11,Adani Ent,SELL,13k,61,2,2.0,242.0,20,221.0,18743.0
+18743,October 14,LT,SELL,7k,60ish,1,2.0,210.0,51,159.0,18954.0
+18953,October 15,South INdian Bk,SELL,"Typical Data, why lost AMS is bad SL placement the traget indeed had
+been hitted.",,,,51.0,53,-141.0,18843.0
+,October 15,Apollo MS,SELL,,,,,-193.0,53,,
+18843,October 17,Infy,SELL,118k,70,1.2,2.0,211.35,41.82,169.53,18956.0
+18956,October 18,LT,SELL,48k,57,0.45,1.5,55.0,38,17.0,18974.0
+18974,October 22,Tata Motors,Buy,,,,,-250.0,138,-147.0,18826.0
+,,Reliance,Sell,,,,,200.0,,,
+,,Hdfc Life,,50k,47 down,1.44,1.44,72.0,,,
+18826,October 23,Tech M,Sell,63,54k,-L,1.05,-582.0,-52,-634.0,18197.0
+18197,October 30,Wipro,?,NO Data,,,,-115.0,-47,-163.0,18000.0
+8743,7 November,tata steel ,BUY,Didnt even bothered to record,,,,-132.0,-33,-165.0,8578.0
+8578,8 Nov,AB Fashion,BUY,,,,,-548.0,-34,-582.0,7996.0
+7970,13 November,NTPC,SELL,,,,,-97.0,26,-71.0,7899.0
+7899,18 Nov,Tata Motors,SELL,,,,,-169.0,25,-144.0,7755.0
+7628,6 Jan,LT,Buy,40k,43,2,2.0,-1.0,-98(AMC),-1.0,7627.0
+7529,7 Jan,Titan,SELL,136k-81k,76,1.13,2.0,261.0,-26.42,234.58,7763.58
+7763.58,8 Jan,TRENT,Buy,88k-52k,8,3.5,2.6,228.0,-11.68,216.32,7979.9
+7979.9,9 Jan,M&M,Sell,60k-24k,73,L,1.9,-106.75,-30.04,-136.79,7843.11
+7843.11,10 Jan,IREDA,Buy,4M-1.7M,28,L,2.0,-197.47,-13.04,-210.51,7632.6
+7632.6,13 Jan,TCS,Sell,NO,,L,2.0,-167.7,27.14,-140.56,7492.04
+7492.04,14 Jan,Reliance,BUY,,,L,2.0,-91.0,26.44,-64.56,7427.48
+7427.48,20 Jan,LT,Sell,39K ↑ - 26k,77,Lx2,3.0,-53.0,-76.2,-129.2,7298.28
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
